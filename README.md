@@ -1,16 +1,54 @@
-## Hi there 👋
+ Hi, I'm Nasir Nawaz 👋
 
-<!--
-**nasirnawaz4411-star/nasirnawaz4411-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🚀 MERN Stack Developer
 
-Here are some ideas to get you started:
+I build modern, responsive and scalable web applications using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+- JavaScript (ES6+)
+
+
+
+ 🌐 Portfolio
+https://portfolio-beta-puce-65.vercel.app
+
+
+
+ 💻 Tech Stack
+
+- Frontend Development
+- Responsive Web Design
+- Full Stack MERN Applications
+- REST API Integration
+- UI/UX Focused Development
+
+
+
+ 📫 Contact Me
+
+ Email: nasirnawaz4411@gmail.com
+
+
+
+ ⚡ Current Focus
+
+- Building Full Stack MERN Projects
+- Improving UI/UX Skills
+- Freelancing & Remote Work
+
+
+ 🔥 Featured Project
+
+ Portfolio Website
+Modern responsive portfolio built using Next.js and Tailwind CSS.
+
+Live Demo:
+https://portfolio-beta-puce-65.vercel.app
+
+GitHub Repository:
+https://github.com/nasirnawaz4411-star/portfolio
